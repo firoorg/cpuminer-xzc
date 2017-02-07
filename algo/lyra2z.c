@@ -25,7 +25,7 @@ void lyra2z_hash(uint64_t* wholeMatrix, void *state, const void *input)
 
 //	LYRA2(0, hashB, 32, hashA, 32, hashA, 32, 2, 8, 8);
 
-	LYRA2(wholeMatrix, hashB, 32, hashA, 32, hashA, 32, 2, 16, 16);
+	LYRA2(wholeMatrix, hashB, 32, hashA, 32, hashA, 32, 8, 8, 8);
 
 #ifdef VERBOSE_HASH_TIMING
     if (hash[0] % 32 == 0) {

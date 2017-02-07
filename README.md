@@ -3,7 +3,7 @@ CPUMiner-Multi
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-!!! THIS IS A HACKED VERSION TO SUPPORT ZCOIN (XZC)'s Lyra2Z algo ! !!!
+!!! THIS IS A HACKED VERSION TO SUPPORT ZCOIN (XZC)'s Lyra2Z algo ! ONLY USE WITH ZCOIN AFTER BLOCK 20500 !!
 
 Use -a lyra2z for XZC mining on pools like on https://xzc.suprnova.cc or solomining.
 
